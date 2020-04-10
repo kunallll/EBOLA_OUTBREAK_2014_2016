@@ -1,0 +1,17 @@
+yearly:
+  2014,2015,2016
+  1. Increase/decrease in the number of cases in total.(All countries)
+  2. Max number of cases , top 5 countries, over the years (Developing pie charts)
+  3. no. of deaths, per year
+  4. box plot for number of suspeected deaths and confirmed deaths
+  5. how many patients were cured each year for each county(plot for the death rates of 	each country)
+
+Monthly:
+  1. Deaths per month, 19 months, seperate graphs for each country
+  2. cases being reported, per country 
+  3. which month was worst and least affected by the outbreak(in terms of number of deaths)
+  4. plot for percentage of survived patients each month (different plot for each years)
+Date wise:
+  1. max number of deaths (country? date?)
+  2. First case and last case recorded till now
+  3. which date has the max and min death rate
